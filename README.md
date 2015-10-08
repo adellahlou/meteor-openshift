@@ -1,3 +1,6 @@
+Fork is being maintained for Northwestern SESP IT 
+============================================
+
 Run Meteor 1.2 on Red Hat's OpenShift PaaS
 ====================================================================
 This git repository is a sample Meteor base cartidge with can be used with your 
